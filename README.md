@@ -14,15 +14,15 @@ Item-Item Collaborative Filtering: “Users who liked this item also liked …�
 User-Item Collaborative Filtering: “Users who are similar to you also liked …”
 
 ## Item Based Book Recommendation:
-	We are implementating a item based Collabrative Filtering that determines the similar book for a given book.
-![alt text](https://github.com/Sushmitha-Katti/Book-Recomendation/blob/master/bookrecomendation.png =250x250 "Example for Book Recomendation")
+We are implementating a item based Collabrative Filtering that determines the similar book for a given book.
+![alt text](https://github.com/Sushmitha-Katti/Book-Recomendation/blob/master/bookrecomendation.png =250x250)
 
 
 ## Install:
 
-  *Numpy
-  *Pandas
-  *Sklearn
+  * Numpy
+  * Pandas
+  * Sklearn
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
@@ -42,13 +42,13 @@ jupyter notebook "malicious_site_detection.ipynb"`
 
 ## Tables Used For Recommendation:
 
-  *Ratings.csv
-  *Books.csv
+  * Ratings.csv
+  * Books.csv
 
 ## Features of ratings.csv:
-	*user_id - Unique Id Of User
-	*book_id - Unique Id of Book
-	*rating - Rating of the Book by user
+	* user_id - Unique Id Of User
+	* book_id - Unique Id of Book
+	* rating - Rating of the Book by user
 
 ## Algorithm Used:
 
@@ -59,6 +59,7 @@ jupyter notebook "malicious_site_detection.ipynb"`
 ## Input:
 
 Takes the book id as input.
+
 	`getTopRecommandations(123)`
 
 ## Output:
