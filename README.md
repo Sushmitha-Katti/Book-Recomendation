@@ -4,7 +4,7 @@ We see the use of recommendation systems all around us. These systems are person
 
 ## Types Of Collaborative Filtering
 
-![alt text](https://github.com/Sushmitha-Katti/Book-Recomendation/blob/master/Typesofcollabrativefiltering.png "Types Of Recomendation System")
+![alt text](https://github.com/Sushmitha-Katti/Book-Recomendation/blob/master/images/Typesofcollabrativefiltering.png "Types Of Recomendation System")
 
 ### In Our project We are Using Memory Based Collaborative Filtering
 **Memory-Based Collaborative Filtering** approaches can be divided into two main sections: **user-item** filtering and item-item filtering. A user-item filtering takes a particular user, find users that are similar to that user based on similarity of ratings, and recommend items that those similar users liked. In contrast, **item-item** filtering will take an item, find users who liked that item, and find other items that those users or similar users also liked. It takes items and outputs other items as recommendations.
@@ -29,7 +29,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ## Dataset:
 
-[Here is the link for the dataset](https://www.kaggle.com/zygmunt/images/goodbooks-10k)
+[Here is the link for the dataset](https://www.kaggle.com/zygmunt/goodbooks-10k)
 
 ## Code:
 
