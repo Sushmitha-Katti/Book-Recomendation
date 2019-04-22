@@ -15,7 +15,7 @@ User-Item Collaborative Filtering: â€œUsers who are similar to you also liked â€
 
 ## Item Based Book Recommendation:
 We are implementating a item based Collabrative Filtering that determines the similar book for a given book.
-![alt text](https://github.com/Sushmitha-Katti/Book-Recomendation/blob/master/bookrecomendation.png)
+![alt text](https://github.com/Sushmitha-Katti/Book-Recomendation/blob/master/images/bookrecomendation.png)
 
 
 ## Install:
@@ -29,7 +29,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ## Dataset:
 
-[Here is the link for the dataset](https://www.kaggle.com/zygmunt/goodbooks-10k)
+[Here is the link for the dataset](https://www.kaggle.com/zygmunt/images/goodbooks-10k)
 
 ## Code:
 
@@ -46,14 +46,14 @@ jupyter notebook "malicious_site_detection.ipynb"`
   * Books.csv
 
 ## Features of ratings.csv:
-	* user_id - Unique Id Of User
-	* book_id - Unique Id of Book
-	* rating - Rating of the Book by user
+* user_id - Unique Id Of User
+* book_id - Unique Id of Book
+* rating - Rating of the Book by user
 
 ## Algorithm Used:
 
 **Cosine Similarity** - It is the cosine of the angle between two n-dimensional vectors in an n-dimensional space. It is the dot product of the two vectors divided by the product of the two vectors' lengths (or magnitudes).
-![alt text](https://github.com/Sushmitha-Katti/Book-Recomendation/blob/master/cosine-similarity.png "Cosine-Similarity")
+![alt text](https://github.com/Sushmitha-Katti/Book-Recomendation/blob/master/images/cosine-similarity.png "Cosine-Similarity")
 
 
 ## Input:
