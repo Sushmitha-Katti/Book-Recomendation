@@ -15,7 +15,7 @@ User-Item Collaborative Filtering: â€œUsers who are similar to you also liked â€
 
 ## Item Based Book Recommendation:
 We are implementating a item based Collabrative Filtering that determines the similar book for a given book.
-![alt text](https://github.com/Sushmitha-Katti/Book-Recomendation/blob/master/bookrecomendation.png =250x250)
+![alt text](https://github.com/Sushmitha-Katti/Book-Recomendation/blob/master/bookrecomendation.png)
 
 
 ## Install:
