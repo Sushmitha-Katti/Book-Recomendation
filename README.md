@@ -37,7 +37,7 @@ Implementation of Book Recomendation System is provided in Book Recomendation.ip
 
 ## Run:
 
-`In a anaconda promt or in the terminal, navigate to the code folder and run one of the following commands:
+`In a anaconda prompt or in the terminal, navigate to the code folder and run one of the following commands:
 jupyter notebook "malicious_site_detection.ipynb"`
 
 ## Tables Used For Recommendation:
